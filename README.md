@@ -1,2 +1,18 @@
-# Iris-Species-ML-Classification
-Dive into machine learning with the ‘Iris Species ML Classification’ project. This repository uses Python and scikit-learn to classify Iris flower species. It showcases data exploration, visualization techniques, and model building, serving as a practical example of machine learning application.
+# Iris Species ML Classification
+
+## Overview
+A Python-based project demonstrating the classification of Iris species using scikit-learn.
+
+## Installation
+- Python
+- scikit-learn
+- pandas
+- matplotlib
+
+## Features
+- Data exploration and preprocessing.
+- Visualization of Iris dataset.
+- Building and evaluating a classification model.
+
+## Usage
+Follow the Jupyter notebook for step-by-step instructions on executing the model.
